@@ -7,15 +7,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
    
   
-    aWebsite : "https://fooddeliveryappreactjs-1.onrender.com/",
-
-   
   
-    bWebsite : "https://devanshsahni.github.io/Rog-Free/",
-
-  
-   
-    cWebsite:"https://newsletter-signup-teal.vercel.app/",
     
  
   }
